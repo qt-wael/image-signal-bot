@@ -13,7 +13,7 @@ logger = logging.getLogger(__name__)
 # Path to tesseract (edit if needed)
 pytesseract.pytesseract.tesseract_cmd = '/usr/bin/tesseract'  # or 'C:/Program Files/Tesseract-OCR/tesseract.exe'
 
-BOT_TOKEN = "8109350774:AAGhyFMgdVXD59y7k8x5Hwr6PIhzP1hM9xc"
+BOT_TOKEN = "YOUR_TOKEN_HERE"
 
 # OCR & Analysis
 
